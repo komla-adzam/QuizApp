@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="q1_text">1. What is the past tense of see?</string>
+    <string name="q2_text">2. What is the largest country in the world?</string>
+    <string name="q3_text">3. Who was the first president of Ghana?</string>
+    <string name="q4_text">4. What is the tallest mountain in the world?</string>
+    <string name="q5_text">5. What is the most populated country in the world ?</string>
+    <string name="q6_text">6. Who is the richest man in the world?</string>
+    <string name="q7_text">7. What is the largest ocean in the world?</string>
+    <string name="q8_text">8. What is the fastest mammal on land?</string>
+
+    <string name="q1_a">saw</string>
+    <string name="q1_b">seen</string>
+    <string name="q1_c">sawed</string>
+
+    <string name="q2_a">Canada</string>
+    <string name="q2_b">Nigeria</string>
+    <string name="q2_c">Russia</string>
+
+    <string name="q3_a">Nelson Mandela</string>
+    <string name="q3_b">Uhuru Kenyata</string>
+    <string name="q3_c">Dr. K. Nkrumah</string>
+
+    <string name="q4_a">Mount Everest</string>
+    <string name="q4_b">Mount Rushmore</string>
+    <string name="q4_c">Mount K1</string>
+
+    <string name="q5_a">India</string>
+    <string name="q5_b">China</string>
+    <string name="q5_c">USA</string>
+
+    <string name="q6_a">Bill Gates</string>
+    <string name="q6_b">Jeff Bezos</string>
+    <string name="q6_c">Steve Jobs</string>
+
+    <string name="q7_a">Pacific Ocean</string>
+    <string name="q7_b">Atlantic Ocean</string>
+    <string name="q7_c">Indian Ocean</string>
+
+    <string name="q8_a">Eagle</string>
+    <string name="q8_b">Cheetah</string>
+    <string name="q8_c">Lion</string>
+
+</resources>
